@@ -1,6 +1,6 @@
 /*
  * SharpPick aka InexorablePoSH
- * Modified by Kevin Wang to use PowerShell class and ps.Invoke() instead. Does not crash when there the ps script encounters an error.
+ * Modified by Kevin Wang to use PowerShell class and ps.Invoke() instead. Does not crash when the ps script encounters an error.
  * License: 3-Clause BSD License. See Veil PowerTools Project
  */
 

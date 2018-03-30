@@ -1,12 +1,6 @@
 /*
  * SharpPick aka InexorablePoSH
- * Description: Application to load and run powershell code via the .NET assemblies
- * License: 3-Clause BSD License. See Veil PowerTools Project
- * 
- * This application is part of Veil PowerTools, a collection of offensive PowerShell 
- * capabilities. Hope they help! 
- * 
- * This is part of a sub-repo of PowerPick, a toolkit used to run PowerShell code without the use of Powershell.exe 
+ * Modified by Kevin Wang to use PowerShell class and ps.Invoke() instead. Does not crash when there the ps script encounters an error.
  */
 
 using System;

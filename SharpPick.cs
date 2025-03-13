@@ -56,7 +56,7 @@ namespace SharpPick
 
         static int Main(string[] args)
         {
-            string script;
+            string script = "";
 
             //Check the options
             if (args.Length != 2)
